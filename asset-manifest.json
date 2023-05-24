@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.8d909cf1.css",
-    "main.js": "./static/js/main.922a831f.js",
-    "static/media/beachVid.mp4": "./static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
-    "static/media/keywest.jpg": "./static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "./static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "./static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "./static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "./static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "index.html": "./index.html",
-    "main.8d909cf1.css.map": "./static/css/main.8d909cf1.css.map",
-    "main.922a831f.js.map": "./static/js/main.922a831f.js.map"
+    "main.css": "/beachesWeb-react-tailwind/static/css/main.8d909cf1.css",
+    "main.js": "/beachesWeb-react-tailwind/static/js/main.3cdeb1e6.js",
+    "static/media/beachVid.mp4": "/beachesWeb-react-tailwind/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/beachesWeb-react-tailwind/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/beachesWeb-react-tailwind/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/beachesWeb-react-tailwind/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/beachesWeb-react-tailwind/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/beachesWeb-react-tailwind/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "index.html": "/beachesWeb-react-tailwind/index.html",
+    "main.8d909cf1.css.map": "/beachesWeb-react-tailwind/static/css/main.8d909cf1.css.map",
+    "main.3cdeb1e6.js.map": "/beachesWeb-react-tailwind/static/js/main.3cdeb1e6.js.map"
   },
   "entrypoints": [
     "static/css/main.8d909cf1.css",
-    "static/js/main.922a831f.js"
+    "static/js/main.3cdeb1e6.js"
   ]
 }
