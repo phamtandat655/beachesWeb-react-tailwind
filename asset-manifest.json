@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d909cf1.css",
-    "main.js": "/static/js/main.88070c47.js",
-    "static/media/beachVid.mp4": "/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
-    "static/media/keywest.jpg": "/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "index.html": "/index.html",
-    "main.8d909cf1.css.map": "/static/css/main.8d909cf1.css.map",
-    "main.88070c47.js.map": "/static/js/main.88070c47.js.map"
+    "main.css": "./static/css/main.8d909cf1.css",
+    "main.js": "./static/js/main.922a831f.js",
+    "static/media/beachVid.mp4": "./static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "./static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "./static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "./static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "./static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "./static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "index.html": "./index.html",
+    "main.8d909cf1.css.map": "./static/css/main.8d909cf1.css.map",
+    "main.922a831f.js.map": "./static/js/main.922a831f.js.map"
   },
   "entrypoints": [
     "static/css/main.8d909cf1.css",
-    "static/js/main.88070c47.js"
+    "static/js/main.922a831f.js"
   ]
 }
